@@ -1,0 +1,12 @@
+c:\users\remotefire\documents\visual studio 2015\Projects\testregkey\testregkey\bin\Debug\testregkey.exe.config
+c:\users\remotefire\documents\visual studio 2015\Projects\testregkey\testregkey\obj\Debug\testregkey.csprojResolveAssemblyReference.cache
+c:\users\remotefire\documents\visual studio 2015\Projects\testregkey\testregkey\obj\Debug\testregkey.Form1.resources
+c:\users\remotefire\documents\visual studio 2015\Projects\testregkey\testregkey\obj\Debug\testregkey.Properties.Resources.resources
+c:\users\remotefire\documents\visual studio 2015\Projects\testregkey\testregkey\obj\Debug\testregkey.csproj.GenerateResource.Cache
+c:\users\remotefire\documents\visual studio 2015\Projects\testregkey\testregkey\bin\Debug\testregkey.exe
+c:\users\remotefire\documents\visual studio 2015\Projects\testregkey\testregkey\bin\Debug\testregkey.pdb
+c:\users\remotefire\documents\visual studio 2015\Projects\testregkey\testregkey\obj\Debug\testregkey.exe
+c:\users\remotefire\documents\visual studio 2015\Projects\testregkey\testregkey\obj\Debug\testregkey.pdb
+C:\Users\LAPTOP-Stijn\Desktop\testregkey\testregkey\bin\Debug\testregkey.exe.config
+C:\Users\LAPTOP-Stijn\Desktop\testregkey\testregkey\obj\Debug\testregkey.exe
+C:\Users\LAPTOP-Stijn\Desktop\testregkey\testregkey\obj\Debug\testregkey.pdb
